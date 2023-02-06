@@ -6,7 +6,7 @@ import NewsCards from './components/NewsCards/NewsCards';
 
 import useStyles from './styles';
 
-const AlanKey='a5607ae0e1b0e5a0d2755cf4c3bbb9fd2e956eca572e1d8b807a3e2338fdd0dc/stage';
+const AlanKey=ALAN_AI_KEY;
 
 const App = () => {
 
